@@ -1,4 +1,4 @@
-import java.util.Locale;
+package org.example;
 
 class ShapeCalculator {
     public static void main(String[] args) {
